@@ -1,0 +1,1 @@
+URL_PATH = "https://prices.runescape.wiki/osrs/all-items"

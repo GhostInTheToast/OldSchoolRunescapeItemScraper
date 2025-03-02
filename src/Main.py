@@ -1,7 +1,8 @@
+from Scraper import scrape
+from helpers.constants import URL_PATH
 
 def main():
-    print("yee")
-
+    scrape(URL_PATH)
 
 
 
